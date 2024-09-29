@@ -1,13 +1,13 @@
-# Welcome to My GitHub Pages Site
+# Welcome to Free choice extra assignment bundle E
 
-This is a simple static website created using [GitHub Pages](https://pages.github.com/) and Markdown.
+This is a static website created using [GitHub Pages](https://pages.github.com/) and Markdown.
+
 
 ## Features
 - **Markdown Syntax**
 - **GitHub Pages Hosting**
-- **Easy to Use**
 
-## Code Example
-```python
-# Python code example
-print("Hello, This is GitHub Pages!")
+
+### Python code example
+Cloud Services
+Vo Thanh Nghi Vu
